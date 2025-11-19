@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @yyy1mu
-- 👀 I’m interested in software\network procotol security
-- 🌱 I’m currently learning how to write a paper
-- 💞️ I’m looking to collaborate on procotol fuzz or other interesting
-- 📫 How to reach me yyy1mu@qq.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔐 Security Researcher focusing on **Software Security**, **Network Protocol Security**, and **LLM for Security**
+- 🤖 Exploring the intersection of **Large Language Models** and **Cybersecurity**, always chasing interesting ideas
+- 🌱 Currently learning academic paper writing and security research
+- 📫 Email: yyy1mu@qq.com
+
 
 <!---
 yyy1mu/yyy1mu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
