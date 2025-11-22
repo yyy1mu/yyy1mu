@@ -3,6 +3,7 @@
 - 🤖 Exploring the intersection of **Large Language Models** and **Cybersecurity**, always chasing interesting ideas
 - 🌱 Currently learning academic paper writing and security research
 - 📫 Email: yyy1mu@qq.com
+- 💼 Seeking a job. Graduating June 2026.
 
 
 <!---
